@@ -22,7 +22,9 @@ Algorithm
 
 5.Display Results: Output the computed mean variance and Cross Correlation
 
+
 PROCEDURE
+
 • Refer Algorithms and write code for the experiment.
 
 • Open SCILAB in System • Type your code in New Editor
